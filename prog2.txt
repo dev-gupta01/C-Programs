@@ -1,0 +1,15 @@
+sno  line number  type   	value
+1	2	Keyword		using
+2	2 	Keyword		namespace
+3	2	Keyword		std
+4     	3      	Keyword     	int
+5     	3      	Keyword		main()
+6     	4    	Identifier     	position;
+7     	5      	Identifier     	initial;
+8     	6      	Identifier     	rate;
+9     	7      	Operator     	=
+10     	7      	Identifier     	initial
+11    	7      	Operator     	+
+12    	7      	Identifier     	rate
+13     	7      	Operator     	*
+14	8	Keyword		return

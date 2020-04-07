@@ -1,0 +1,9 @@
+#include<bits/stdc++.h>
+using namespace std;
+int main() {
+	int position;
+	int initial;
+	int rate;
+	position = initial + rate * 60;
+	return 0;
+}

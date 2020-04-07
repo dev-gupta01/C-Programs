@@ -1,0 +1,15 @@
+#(Keyword,include)<bits/stdc++.h>
+(Keyword,using) (Keyword,namespace) (Keyword,std);
+(Keyword,int) (Keyword,main)(){
+	(Keyword,int) (Variable,position);
+	(Keyword,int) (Variable,initial);
+	(Keyword,int) (Variable,rate);
+	(Variable,position) (Operator,=) (Variable,initial) (Operator,+) (Variable,rate) (Operator,*) (Integer,60);
+	(Keyword,return) (Integer,0);
+}
+
+Total Operators= 3
+Total Keywords= 10
+Total Variable= 6
+Total Integers= 1
+Total Float= 0

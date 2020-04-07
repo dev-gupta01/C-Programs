@@ -1,0 +1,5 @@
+1.  https://discuss.codechef.com/questions/48877/data-structures-and-algorithms
+
+2.  https://cp-algorithms.com/
+
+3.  https://www.geeksforgeeks.org/fundamentals-of-algorithms/

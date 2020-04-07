@@ -1,0 +1,37 @@
+{
+    "configurations": [
+        {
+            "name": "WSL",
+            "intelliSenseMode": "clang-x64",
+            "compilerPath": "/usr/bin/gcc",
+            "includePath": [
+                "${workspaceFolder}",
+                "/usr/include/c++/7",
+                "/usr/lib/gcc/x86_64-linux-gnu/7/include",
+                "/usr/local/include",
+                "/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed",
+                "/usr/include/x86_64-linux-gnu",
+                "/usr/include",
+                "/usr/boost/include",
+                "/usr/boost/lib",
+                "C:/Users/devas/AppData/Local/Packages/CanonicalGroupLimited.UbuntuonWindows_79rhkp1fndgsc/LocalState/rootfs/usr/include"
+            ],
+            "defines": [],
+            "browse": {
+                "path": [
+                    "${workspaceFolder}",
+                    "/usr/lib/gcc/x86_64-linux-gnu/7/include",
+                    "/usr/local/include",
+                    "/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed",
+                    "/usr/include/x86_64-linux-gnu",
+                    "/usr/include"
+                ],
+                "limitSymbolsToIncludedHeaders": true,
+                "databaseFilename": ""
+            },
+            "cStandard": "c11",
+            "cppStandard": "c++17"
+        }
+    ],
+    "version": 4
+}

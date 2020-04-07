@@ -1,0 +1,10 @@
+12/08/2018
+{
+    1. decimal to binary
+    2. find all factors of a number
+    3. verify a number for prime
+    4. finding prime factors of a number
+    5. prime sieve
+    6. area of covex polygon with origin inside
+    7. 
+}
