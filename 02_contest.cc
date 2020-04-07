@@ -82,9 +82,15 @@ void findi(int n,vector<int> &v){
     }
 }
 int main(){
-    int n;cin>>n;
-    int dp[n]={0};
-    fori(i,0,n)
-        cout<<dp[i]<<" ";
+    string s;cin>>s;
+    int a[26]={0};
+    for(int i=0;i<s.length();i++)
+        a[s[i]-'a']++;
+    for(int i=0;i<s.length();i++){
+        if(a[s[i]-'a']!=0){
+            cout<<s[i];
+            a[s[i]-'a']=0;
+        }
+    }
     cout<<endl;
 }
